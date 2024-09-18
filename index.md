@@ -4,3 +4,7 @@
 ```
 the realest sample code there ever was (i do not know any programming languages)
 ```
+
+- [X] step 1 anime
+- [X] step 2 ???
+- [ ] step 3 profit
